@@ -1,0 +1,70 @@
+
+html{
+    height: 100%;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+header{
+    border: solid lightcyan 1px;
+    background-color: darkslategray;
+    color: lightcyan;
+}
+
+h1{
+    font-size: xx-large;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+aside{
+    /* width: 33.16%; */
+    height: 715px;
+    background-color: darkslategray;
+}
+
+div{
+    /* width: 33.16%; */
+    height: 715px;
+}
+
+section{
+    /* width: 33.16%; */
+    height: 715px;
+    background-color: aqua;
+    
+}
+
+li {
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h2 {
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p{
+    font-size: larger;
+    padding: 5px;
+}
+
+h3{
+    font-size: larger;
+    font-weight: bold;
+    padding: 15px;
+}
+
+footer{
+    background-color:darkslategray;
+    text-align: center;
+    padding: 10px;
+    color: lightcyan;
+    border: solid lightcyan 1px;
+}

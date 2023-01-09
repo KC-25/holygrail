@@ -1,0 +1,34 @@
+
+main{
+    display: flex;
+    justify-self: space-evenly;
+}
+
+div{
+    width: 33.16%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+aside{
+    width: 33.16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    width: 33.16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
