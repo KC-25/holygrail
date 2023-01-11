@@ -27,8 +27,4 @@ section{
     align-items: center;
 }
 
-ul li{
-    flex-direction: column;
-    display: flex;
-    justify-content: space-between;
-}
+ 
